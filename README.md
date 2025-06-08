@@ -1,3 +1,1 @@
-# tp1-programacion 
-buenas
-estoy desde linux
+# tp1-programacion
